@@ -1,1 +1,1 @@
-# C++
+# C++ dasturlash asoslari - Upgrade academy
